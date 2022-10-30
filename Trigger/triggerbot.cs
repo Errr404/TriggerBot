@@ -64,7 +64,7 @@ namespace TriggerBot
                 AUTOSHOOT.Start();
             }
             Author_Label.ForeColor = Color.FromArgb(169, 0, 0);
-            Author_Label.Text = "Made by NightFyreTV";
+            Author_Label.Text = "Jogue na minha papai";
         }
  
  
